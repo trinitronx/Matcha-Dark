@@ -220,7 +220,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#50fa7b</string>
+				<string>#6ddac4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -272,7 +272,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#1fa5cd</string>
+				<string>#2eb398</string>
 			</dict>
 		</dict>
 		<dict>
@@ -370,7 +370,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#45ff82</string>
+				<string>#96e9d4</string>
 			</dict>
 		</dict>
 		<dict>
