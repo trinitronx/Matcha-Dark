@@ -381,6 +381,21 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Invalid illegal</string>
+			<key>scope</key>
+			<string>invalid.illegal</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#d23131</string>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#ccd7d4</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>JSON String</string>
 			<key>scope</key>
 			<string>meta.structure.dictionary.json string.quoted.double.json</string>
