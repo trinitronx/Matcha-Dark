@@ -285,7 +285,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#2eb398</string>
+				<string>#45ff82</string>
 			</dict>
 		</dict>
 		<dict>
@@ -298,7 +298,7 @@
 				<key>fontStyle</key>
 				<string> italic</string>
 				<key>foreground</key>
-				<string>#2eb398</string>
+				<string>#289b83</string>
 			</dict>
 		</dict>
 		<dict>
