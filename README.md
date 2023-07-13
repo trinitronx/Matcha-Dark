@@ -9,7 +9,7 @@ Theme made to match Manjaro Sway, which uses Matcha Dark GTK theme.
 
 ### Preview
 
-![Preview of Theme](./assets/Matcha-Dark-Theme.png "Preview")
+<img src="./assets/Matcha-Dark-Theme.png" width="50%" height="50%" alt="Preview of Theme"/>
 
 ### How to install it?
 
