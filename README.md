@@ -18,7 +18,7 @@ Theme made to match Manjaro Sway, which uses Matcha Dark GTK theme.
 Clone the repo to the `Packages` folder of Sublime Text.
 
 ```bash
-$ git clone https://github.com/trinitronx/Matcha-Dark-Theme
+$ git clone https://github.com/trinitronx/Matcha-Dark
 ```
 
 #### `bat`
@@ -31,7 +31,7 @@ mkdir -p "$(bat --config-dir)/themes"
 cd "$(bat --config-dir)/themes"
 
 # Download this theme in '.tmTheme' format:
-git clone https://github.com/trinitronx/Matcha-Dark-Theme
+git clone https://github.com/trinitronx/Matcha-Dark
 
 # Update the binary cache
 bat cache --build
